@@ -3,5 +3,6 @@ public class main {
         System.out.println("Hello Jawa");
         System.out.println("Cikini");
         System.out.println("Gondangdia");
+        System.out.println("Bogor");
     }
 }
